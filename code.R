@@ -1,1 +1,2 @@
 Print(test)
+print(hi)
